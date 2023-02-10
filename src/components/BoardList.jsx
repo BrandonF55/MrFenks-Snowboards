@@ -18,8 +18,8 @@ function BoardList(props) {
 }
 
 BoardList.propTypes = {
-  boardList: PropType.Array;
-  onBoardSelection: PropType.func
+  boardList: PropTypes.Array,
+  onBoardSelection: PropTypes.func
 };
 
 export default BoardList;

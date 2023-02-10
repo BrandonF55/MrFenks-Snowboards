@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from "prop-types";
 
-function Board(Props) {
+function Board(props) {
   return(
     <React.Fragment>
       <div onClick = {() => props.whenBoardClicked(props.id)}>
@@ -17,12 +17,12 @@ function Board(Props) {
 }
 
 Board.propTypes = {
-  terrain: PropType.string,
-  board: PropType.string,
-  price: PropType.number,
-  quantity: propType.number,
-  id: PropType.string,
-  whenBoardClicked: PropType.func
+  terrain: PropTypes.string,
+  board: PropTypes.string,
+  price: PropTypes.number,
+  quantity: PropTypes.number,
+  id: PropTypes.string,
+  whenBoardClicked: PropTypes.func
 
 };
 

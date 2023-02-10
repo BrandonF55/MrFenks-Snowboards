@@ -17,7 +17,7 @@ function BoardForm(props) {
       type="number"
       name="quantity" 
       placeholder="# of stock"/>
-      <button type="submit">{prop.buttonText}</button>
+      <button type="submit">{props.buttonText}</button>
     </form>
     </React.Fragment>
     
@@ -25,8 +25,8 @@ function BoardForm(props) {
 }
 
     BoardForm.propTypes = {
-      formSubmissionHandler: PropType.func,
-      buttonText: PropType.string
+      formSubmissionHandler: PropTypes.func,
+      buttonText: PropTypes.string
     };
 
     export default BoardForm;

@@ -1,15 +1,15 @@
 import React from 'react';
-import './App.css';
-import SiteControl from './SiteControl'
+import Header from "./Header";
+import SiteControl from './SiteControl';
 
-function App() {
-  return (
-  <React.Fragment>
-    <Header />
-    <SiteControl />
-
-  </React.Fragment>
-  );
-}
+  function App(){
+    return (
+      <React.Fragment>
+        <Header />
+        <SiteControl />
+      </React.Fragment>
+    );
+  }
+  
 
 export default App;
