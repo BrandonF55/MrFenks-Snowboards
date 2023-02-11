@@ -1,3 +1,26 @@
+# _Mr Fenk's SnowBoards_
+
+### By _**Brandon James Fenk_
+
+# Getting Started with Create React App
+
+
+![Mr Fenk's SnowBoards drawio](https://user-images.githubusercontent.com/113402256/218223497-b5757829-8a8e-490d-b76d-d2338a43361c.png)
+
+## Technologies Used
+
+* _JavaScript_
+* _React_
+* _Css_
+* _HTML_
+* _Webpack_
+
+## Description
+
+_This is a Small React Application For Mr Fenk's Snowboards. You can add a new snowboard, with terrain, price. You can Delete, Add, Edit, and sell a snowboard from the inventory _
+
+## Setup/Installation Requirements
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +91,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Known Bugs
+
+* _No known bugs_
+
+## License
+
+_[MIT](https://en.wikipedia.org/wiki/MIT_License)_
+
+Copyright (c) _2022_ _Brandon James Fenk_
