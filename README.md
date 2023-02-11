@@ -21,6 +21,8 @@ _This is a Small React Application For Mr Fenk's Snowboards. You can add a new s
 
 ## Setup/Installation Requirements
 
+_Clone down from ```https://github.com/BrandonF55/MrFenks-Snowboards.git``` Cd into the project, once your in the project do npm Install, and build. Once those commands are done do npm run start so the project can be loaded in the browser_
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -94,7 +96,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Known Bugs
 
-* _No known bugs_
+* _No known bugs but if you run into any issues with the program please reach out at Brandon.Fenk99@gmail.com_
 
 ## License
 
